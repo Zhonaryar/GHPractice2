@@ -9,5 +9,6 @@ public class Test {
 	
 	public void haha() {
 		System.out.println("Inside haha");
+		System.out.println("hfl;ajdl;fal;dsf");
 	}
 }
